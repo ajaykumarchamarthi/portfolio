@@ -13,7 +13,7 @@ function About() {
           full-stack web applications.
         </p>
         <a
-          href={require("./../../../assets/Ajay Kumar Resume.pdf")}
+          href={require("./../../../assets/Ajay Kumar-Resume.pdf")}
           target="_blank"
           rel="noreferrer"
           className={classes.btn}
