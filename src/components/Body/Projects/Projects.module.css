@@ -1,0 +1,20 @@
+.projects {
+  padding: 3em;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+  color: #d8ddee;
+}
+
+.sectionTitle {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 1em;
+  font-family: "Montserrat", sans-serif;
+}
+
+@media screen and (max-width: 740px) {
+  .projects {
+    padding: 0.5em;
+  }
+}

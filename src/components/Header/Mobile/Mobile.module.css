@@ -1,0 +1,46 @@
+.mobile {
+  background: #0a192f;
+  height: 100vh;
+  width: 100%;
+  right: 0px;
+  position: absolute;
+  padding: 20px 12px;
+  top: -6px;
+  display: flex;
+  flex-direction: column;
+  flex: 1;
+}
+
+.closeicon {
+  display: flex;
+  justify-content: flex-end;
+  color: #ff69b4;
+}
+
+.mobileoptions {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  padding-top: 24px;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.mobileoption {
+  font-size: 26px;
+  margin: 12px 0px;
+  display: flex;
+}
+
+.mobileoption a {
+  text-decoration: none;
+  color: #ffc0cb;
+
+  display: flex;
+}
+
+.mobileoption a:hover {
+  cursor: pointer;
+  border-bottom: 1.5px solid rgb(179, 216, 179);
+}

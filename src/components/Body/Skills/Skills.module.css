@@ -1,0 +1,49 @@
+.skills {
+  display: flex;
+  flex-direction: column;
+  color: #d8ddee;
+  padding: 3em;
+}
+
+.tech {
+  font-size: 1.1rem;
+  font-family: "Lato", sans-serif;
+}
+
+.sectionTitle {
+  font-size: 1.8rem;
+  font-weight: 700;
+  margin-bottom: 1em;
+  font-family: "Montserrat", sans-serif;
+}
+
+.skillsSection {
+  margin: 16px 0;
+}
+
+.skillsSectionTitle {
+  font-size: 1.2rem;
+  font-weight: 500;
+  font-family: "Andada Pro", serif;
+}
+
+.skillsList {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin: 0.7em 0;
+}
+
+@media screen and (max-width: 740px) {
+  .skills {
+    padding: 0.5em;
+  }
+
+  .skillsList {
+    justify-content: center;
+  }
+
+  .skillsSection {
+    flex-direction: column;
+  }
+}
