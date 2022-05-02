@@ -4,15 +4,17 @@
   justify-content: space-around;
   align-items: center;
   margin: 1rem 0;
+  border: 1px solid #1a2c46cf;
   padding: 2em;
   box-shadow: rgba(17, 17, 26, 0.1) 0px 4px 16px,
-    rgba(17, 17, 26, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
+    rgba(0, 0, 0, 0.1) 0px 8px 24px, rgba(17, 17, 26, 0.1) 0px 16px 56px;
 }
 
 .projectPhoto {
   width: 40%;
   height: 500px;
   margin: 0 1em;
+  border-radius: 0.5em;
 }
 
 .projectInfo {

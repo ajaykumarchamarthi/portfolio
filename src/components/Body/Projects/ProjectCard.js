@@ -32,7 +32,7 @@ function ProjectCard({ project }) {
             >
               <div className={classes.linkButton}>
                 <GrReactjs size={18} />
-                <span className={classes.linkContent}>Frontend Code</span>
+                <span className={classes.linkContent}>Frontend</span>
               </div>
             </a>
           )}
@@ -45,7 +45,7 @@ function ProjectCard({ project }) {
             >
               <div className={classes.linkButton}>
                 <DiNodejsSmall size={21} />
-                <span className={classes.linkContent}>Backend Code</span>
+                <span className={classes.linkContent}>Backend</span>
               </div>
             </a>
           )}

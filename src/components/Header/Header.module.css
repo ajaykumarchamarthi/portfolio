@@ -27,7 +27,7 @@
 }
 
 .closeIcon {
-  color: #ff69b4;
+  color: rgb(226, 43, 131);
 }
 @media only screen and (max-width: 720px) {
   .mobilemenu {
