@@ -36,7 +36,7 @@ export const SkillsData = [
         name: "Node JS",
       },
       {
-        icon: <i class="devicon-express-original-wordmark colored"></i>,
+        icon: <i class="devicon-express-original-wordmark"></i>,
         name: "Express JS",
       },
     ],
