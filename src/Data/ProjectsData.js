@@ -45,8 +45,8 @@ export const ProjectData = [
     tags: ["ReactJs", "NodeJs", "Express", "Mongo DB"],
     image:
       "https://aws-s3-nodejs-multer-practice.s3.ap-south-1.amazonaws.com/project/ESSPortal-App.png",
-    frontend: "https://github.com/ajaykumarchamarthi/chatapp-frontend.git",
-    demo: "https://instantchat-app.netlify.app/",
-    backend: "https://github.com/ajaykumarchamarthi/chatapp-backend.git",
+    frontend: "https://github.com/ajaykumarchamarthi/essportal-frontend.git",
+    demo: "https://essportal.netlify.app/",
+    backend: "https://github.com/ajaykumarchamarthi/essportal-backend.git",
   },
 ];
